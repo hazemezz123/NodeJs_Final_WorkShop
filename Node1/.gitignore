@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Database configuration that might contain sensitive data
+config.js
+config.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Optional npm cache directory
+.npm
+
+# VSCode specific files
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS specific files
+.DS_Store
+Thumbs.db 
