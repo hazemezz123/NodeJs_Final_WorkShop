@@ -2,6 +2,18 @@
 
 This project is a Node.js REST API for managing products in a MySQL database, as specified in Exercise N of the Node.js workshops.
 
+## Project Structure
+
+```
+Node1/
+├── index.js           # Main application file
+├── package.json       # Project metadata and dependencies
+├── package-lock.json  # Dependency lock file
+├── node_modules/      # Installed dependencies
+├── .gitignore         # Git ignore rules
+└── README.md          # Project documentation
+```
+
 ## Features
 
 - **CRUD Operations for Products:**

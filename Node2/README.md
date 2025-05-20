@@ -2,6 +2,18 @@
 
 This folder contains an Express.js application (`index.js`) as per Exercise O: Node.js 2.
 
+## Project Structure
+
+```
+Node2/
+├── index.js           # Main application file
+├── package.json       # Project metadata and dependencies
+├── package-lock.json  # Dependency lock file
+├── node_modules/      # Installed dependencies
+├── .gitignore         # Git ignore rules
+└── README.md          # Project documentation
+```
+
 ## Description
 
 The application sets up a simple web server with the following routes:
